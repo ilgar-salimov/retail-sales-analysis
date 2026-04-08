@@ -165,7 +165,8 @@ FROM Suppliers
 		On Orderdetails.ProductId=Products.ProductId
 Group BY SupplierName
 Order by Revenue DESC
-LIMIT 1;
+LIMIT 3
+;
 
 /*Business Problem: 
 Use a Window Function RANK() to rank every customer based on their total spending,
