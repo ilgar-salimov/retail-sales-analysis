@@ -1,2 +1,2 @@
 # Images
-Images of schemas, PowerBi Dashboard and DAXs for retail_sales_analysis
+Images of schemas, Power BI dashboards, and DAX for retail_sales_analysis.
