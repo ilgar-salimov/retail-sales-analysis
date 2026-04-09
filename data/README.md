@@ -1,4 +1,4 @@
-Data Overview
+#Data Overview
 
 The data folder contains structured CSV files used in the retail sales analysis project. The dataset is primarily inspired by the classic Northwind database schema, with additional enhancements to support advanced SQL analysis and reporting.
 
