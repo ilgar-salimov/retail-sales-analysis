@@ -7,6 +7,7 @@ Tables Used:
 Customers, Orders, OrderDetails, Products, Categories, Suppliers, Employees, Shippers
 
 KPIs:
+
 • Total Sales 
 • Total Profit 
 • Total Orders 
@@ -14,6 +15,7 @@ KPIs:
 • Total Quantity Sold 
 
 Analysis Covered:
+
 • Sales and profit trends over time (year and month) 
 • Profit by product category 
 • Top profitable products using ranking logic 
@@ -22,12 +24,14 @@ Analysis Covered:
 • Customer segmentation based on value using ranking and SWITCH logic 
 
 DAX & Logic Used:
+
 • DAX is used for Total Sales, Profit, and Average Order Value measures
 • Used SUMX for row-level calculations 
 • Used RANKX for customer and product ranking 
 • Used SWITCH(TRUE()) for customer segmentation (High, Medium, Low value groups) 
 
 Key Takeaways:
+
 The charts shows which products and customers bring the most value, how profit changes across categories and countries, and how the business performs over time. It helps turn raw data into clear business insights.
 
 Tools Used:
