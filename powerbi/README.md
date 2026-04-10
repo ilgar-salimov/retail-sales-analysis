@@ -6,7 +6,9 @@ The dataset is stored in a SQL database called retail_sales_db. I designed it fr
 Tables Used:
 Customers, Orders, OrderDetails, Products, Categories, Suppliers, Employees, Shippers
 
+
 KPIs:
+
 
 • Total Sales 
 • Total Profit 
@@ -16,6 +18,7 @@ KPIs:
 
 Analysis Covered:
 
+
 • Sales and profit trends over time (year and month) 
 • Profit by product category 
 • Top profitable products using ranking logic 
@@ -23,7 +26,9 @@ Analysis Covered:
 • Top customers by total sales 
 • Customer segmentation based on value using ranking and SWITCH logic 
 
+
 DAX & Logic Used:
+
 
 • DAX is used for Total Sales, Profit, and Average Order Value measures
 • Used SUMX for row-level calculations 
